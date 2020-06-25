@@ -48,7 +48,7 @@ We then wrote `scrape-work-dimensions.js` to go over each card page we downloade
 node scrape-work-dimensions.js
 ```
 
-![price by height x width](https://imgur.com/eHlW3ji)
+![price by height x width](https://imgur.com/eHlW3ji.png)
 
 
 
