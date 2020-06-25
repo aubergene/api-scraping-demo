@@ -12,7 +12,7 @@ cities.forEach(city => {
             const city = d[0]
             console.log(city)
             const url = `https://www.metaweather.com/api/location/${city.woeid}/`
-            console.log(url)
+            // console.log(url)
 
             fetch(url)
                 .then(d => d.json())
