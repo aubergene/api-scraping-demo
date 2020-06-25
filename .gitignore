@@ -1,1 +1,5 @@
 node_modules/
+raw/
+raw_artworks/
+*.csv
+*.txt

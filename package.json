@@ -4,6 +4,8 @@
   "description": "",
   "main": "api-test.js",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "d3-dsv": "^1.2.0",
     "node-fetch": "^2.6.0"
   },
   "devDependencies": {},
